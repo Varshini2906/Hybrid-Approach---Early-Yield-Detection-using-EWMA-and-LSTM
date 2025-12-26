@@ -1,0 +1,2 @@
+# Hybrid-Approach---Early-Yield-Detection-using-EWMA-and-LSTM
+Yield drift in high-volume manufacturing processes can result in significant quality loss and economic impact if not detected early. This work proposes a hybrid early warning framework that combines traditional SPC with data-driven forecasting to anticipate yield degradation before it becomes critical. Based on hybrid approach using EWMA and LSTM
